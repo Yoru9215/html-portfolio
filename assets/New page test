@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Page</title>
+</head> <h1>Yoru's Portfolio</h1>
+<h2>I'm a Web Developer</h2>
+<hr>
+
+    <body>
+        <h2><a href="/4.3 HTML Porfolio Project/assets/images/movie test.jpg">Movie Ranking Project</a>Movie Ranking</h2>
+    <a href="/4.3 HTML Porfolio Project/assets/images/movie test.jpg"><img class="200" src="/4.3 HTML Porfolio Project/assets/images/movie test.jpg" alt=""></a>
+        <h2><a href="/4.3 HTML Porfolio Project/assets/images/bd test.jpg">Birthday Invite Project</a></h2>
+    <img class="200" src="/4.3 HTML Porfolio Project/assets/images/bd test.jpg" alt="birthday-cake3">
+    </body>
+    <a href="/4.3 HTML Porfolio Project/public/about.html">About Me</a>
+    <a href="/4.3 HTML Porfolio Project/public/contact.html">Contact</a>
+</html>
